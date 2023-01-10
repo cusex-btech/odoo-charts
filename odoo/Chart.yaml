@@ -3,4 +3,4 @@ name: odoo
 description: A Helm chart for Odoo on Kubernetes by RJ
 type: application
 version: 0.0.1
-appVersion: "1.2.1"
+appVersion: "1.2.3"
