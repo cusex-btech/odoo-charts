@@ -4,7 +4,7 @@ app:
   postgreslabels: postgres-prod
 
 container:
-  image: harbor.cusex.local/cusex/odoo:16-v1.2.9-rc
+  image: harbor.cusex.local/cusex/odoo:16-v1.2.9
   pullPolicy: Always
 
 imagePullSecrets: regcred
