@@ -4,7 +4,7 @@ app:
   postgreslabels: postgres-stg
 
 container:
-  image: harbor.cusex.local/cusex/odoo:16-v1.2.9-rc
+  image: cx-harbor.btech.id/cusex/odoo:16-v1.2.9-rc
   pullPolicy: Always
 
 imagePullSecrets: regcred
